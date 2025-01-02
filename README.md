@@ -5,7 +5,7 @@
 このRESTサンプルアプリは、「yunosuke-github/sample-api」をforkし、改修したアプリです。作者様に感謝します。<BR>
 以下に利用方法などを説明します。<BR>
 
-Cpoyright　2025/1/2 auctor(尾﨑英一)
+Cpoyright 2025/1/2 auctor(尾﨑英一)
 
 ## リポジトリの複製
 利用するgitは、以下のtortoisegitをWindowsへインストールすると良いでしょう。<BR>
