@@ -106,7 +106,7 @@ Eclipseを立ち上げます。<BR>
 SampleApiApplicationにmainメソッドがあります。<BR>
 このファイル上で右クリック→「実行」→「Javaアプリケーション」でアプリが立ち上がります。<BR>
 
-## REST　API を呼び出す。
+## REST API を呼び出す。
 Eclipseで実行中にしておけば、<BR>
 Postmanなどの、REST APIを呼び出せるツール使って、以下のAPIの動作確認が出来ます。<BR>
 
