@@ -2,7 +2,8 @@
 
 # RESTサンプルアプリ
 
-このRESTサンプルアプリは、「yunosuke-github/sample-api」をforkし、改修したアプリです。作者様に感謝します。<BR>
+このRESTサンプルアプリは、「yunosuke-github/sample-api」をforkし、改修したアプリです。<BR>
+作者様に感謝します。<BR>
 以下に利用方法などを説明します。<BR>
 
 Cpoyright 2025/1/2 auctor(尾﨑英一)
