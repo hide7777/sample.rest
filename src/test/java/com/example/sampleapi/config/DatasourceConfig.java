@@ -23,7 +23,7 @@ public class DatasourceConfig {
 						.create()
 						.username("test_u1")
 						.password("test_u1")
-						.url("jdbc:oracle:thin:@192.168.1.21:1521/FREEPDB1")
+						.url("jdbc:oracle:thin:@localhost:1521/FREEPDB1")
 						.driverClassName("oracle.jdbc.driver.OracleDriver")
 						.build());
 	}
