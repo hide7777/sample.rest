@@ -50,8 +50,8 @@ https://willbrains.jp/<BR>
 ## docker
 Windows環境にDOCKERをインストールしてください。<BR>
 Docker Desktop for windowsは、以下からダウンロードできます。<BR>
-ユーザ登録に際して、ユーザ登録が必要です。<BR>
-Docker Personalは無料ですので、ユーザ登録をおすすめします。<BR>
+また、ユーザ登録が必要ですが、<BR>
+Docker Personalは無料ですので、おすすめします。<BR>
 https://www.docker.com/ja-jp/<BR>
 
 
