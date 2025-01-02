@@ -47,7 +47,7 @@ https://willbrains.jp/<BR>
 よって、Pleiadesの場合には、付属するJDK17（C:\Pleiades\日付フォルダ\java\17）を削除してください。<BR>
 
 
-## docker
+## Docker
 Windows環境にDOCKERをインストールしてください。<BR>
 Docker Desktop for windowsは、以下からダウンロードできます。<BR>
 また、ユーザ登録が必要ですが、<BR>
