@@ -17,7 +17,8 @@ https://github.com/hide7777/sample.rest.git<BR>
 
 
 ## JDK
-以下からOpenJDK 17(openjdk-17.0.0.1+2_windows-x64_bin.zip)をダウンロードし、ZIP展開後、任意の場所に配置して下さい。<BR>
+以下からOpenJDK 17(openjdk-17.0.0.1+2_windows-x64_bin.zip)をダウンロードし、<BR>
+ZIP展開後、任意の場所に配置して下さい。<BR>
 https://jdk.java.net/java-se-ri/17-MR1
 
 ここでは「C:\jdk\openjdk-17」に配置したとします。
@@ -42,7 +43,7 @@ https://willbrains.jp/<BR>
 ここでは「C:\Pleiades」に配置したとします。<BR>
 
 なお、Pleiadesに付属しているJDK17はmaven実行が出来ない不具合があります。<BR>
-その回避策としてJDK17を別途ダウンロードして設定済みです。<BR>
+その回避策としてJDK17を別途ダウンロードして設定する手順にしてあります。<BR>
 よって、Pleiadesの場合には、付属するJDK17（C:\Pleiades\日付フォルダ\java\17）を削除してください。<BR>
 
 
