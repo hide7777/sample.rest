@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <USERS id="1000" name="山田太郎" email="user1000@xxx.com" startdate="2024-01-01" lank="0"/>
+    <USERS id="2000" name="鈴木一郎" email="user2000@xxx.com" startdate="2024-02-01" lank="1"/>
+    <USERS id="3000" name="田中燐子" email="user3000@xxx.com" startdate="2024-03-01" lank="0"/>
+    <USERS id="4000" name="大沢英二" email="user4000@xxx.com" startdate="2024-03-11" lank="1"/>
+    <USERS id="5000" name="山田花子" email="user5000@xxx.com" startdate="2024-04-04" lank="0"/>
+    <USERS id="6000" name="立花誠二" email="user6000@xxx.com" startdate="2024-05-06" lank="1"/>
+</dataset>
