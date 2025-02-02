@@ -116,7 +116,7 @@ class SampleApiApplicationTests {
 
 	       mockMvc = MockMvcBuilders.standaloneSetup(userController).build();
 
-	       String responseJson = mockMvc.perform(MockMvcRequestBuilders.get("/api/v1/users/search?name=山田&email=")
+	       String responseJson = mockMvc.perform(MockMvcRequestBuilders.get("/api/v1/users/search?Name=山田&Email=")
 	    		    .contentType("text/plain;charset=UTF-8")
 	                )
 //	                .andDo(MockMvcResultHandlers.print())

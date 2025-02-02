@@ -38,8 +38,8 @@ public class UserController {
   //
   // PKキーを指定しユーザーを取得
   //
-  @GetMapping("{id}")
-  public Users getById(@PathVariable("id") Long id) {
+  @GetMapping("{Id}")
+  public Users getById(@PathVariable("Id") Long id) {
     return this.userRepository.findById(id).orElseThrow();
   }
 
@@ -47,7 +47,7 @@ public class UserController {
   // あいまい検索(氏名、email）
   //
   @GetMapping("/search")
-  public  List<Users> queryAll(@RequestParam("name") String name,@RequestParam("email") String email) {
+  public  List<Users> queryAll(@RequestParam("Name") String name,@RequestParam("Email") String email) {
     return  this.userRepository.findAll(Specification
             .where(UserSpecifications.nameContains(name))
             .and(UserSpecifications.emailContains(email))
@@ -65,8 +65,8 @@ public class UserController {
   //
   // 指定したIDのユーザーを削除
   //
-  @DeleteMapping("{id}")
-  public void delete(@PathVariable("id") Long id) {
+  @DeleteMapping("{Id}")
+  public void delete(@PathVariable("Id") Long id) {
     this.userRepository.deleteById(id);
   }
 }
